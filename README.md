@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midejoe" alt="midejoe" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, DevOps tools**
+- 🌱 I’m currently learning **DevOps tools**
 
 - 👨‍💻 All of my projects are available at [josephariyo.netlify.app](josephariyo.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@midejoseph24](https://medium.com/@midejoseph24)
 
-- 💬 Ask me about **Python, Terraform, Kubernetes, Pulumi**
+- 💬 Ask me about **Python, JavaScript, Golang Terraform, Docker, Kubernetes, Pulumi, Prometheus**
 
 - 📫 How to reach me **midejoseph24@gmail.com**
 
