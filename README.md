@@ -1,3 +1,5 @@
+https://camo.githubusercontent.com/18936b3eb508935ef621cd07dbd231fa5e9ef1cd839fecd52e08d859a35f0ff9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966
+
 <h1 align="center">Hi 👋, I'm Joseph Ariyo</h1>
 <h3 align="center">A passionate Cloud Engineer with a background in Data Science</h3>
 <img align="left" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.IRFhWNqusUWbTsB1hQXhrQHaEI&pid=Api&P=0">
@@ -8,15 +10,13 @@
 
 - 🌱 I’m currently learning **DevOps tools**
 
-- 👨‍💻 All of my projects are available at [josephariyo.netlify.app](josephariyo.netlify.app)
-
 - 📝 I regularly write articles on [https://medium.com/@midejoseph24](https://medium.com/@midejoseph24)
 
-- 💬 Ask me about **Python, JavaScript, Golang Terraform, Docker, Kubernetes, Pulumi, Prometheus**
+- 💬 Ask me about **Python, .NET, JavaScript, Golang, Terraform, Pulumi, Docker, Kubernetes, Prometheus**
 
 - 📫 How to reach me **midejoseph24@gmail.com**
 
-- 📄 Know about my experiences [josephariyo.netlify.app](josephariyo.netlify.app)
+- 📄 Know about my experiences [https://www.linkedin.com/in/joseph-ariyo/](https://www.linkedin.com/in/joseph-ariyo/)
 
 - ⚡ Fun fact **I am friendly**
 
