@@ -1,7 +1,7 @@
 <img align="center" alt="DevOps" width="800" src="https://camo.githubusercontent.com/18936b3eb508935ef621cd07dbd231fa5e9ef1cd839fecd52e08d859a35f0ff9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966">
 
 <h1 align="center">Hi 👋, I'm Joseph Ariyo</h1>
-<h3 align="center">A passionate Cloud Engineer with a background in Data Science</h3>
+<h3 align="center">A passionate DevOps Engineer with a background in Data Science</h3>
 <img align="left" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.IRFhWNqusUWbTsB1hQXhrQHaEI&pid=Api&P=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midejoe&label=Profile%20views&color=0e75b6&style=flat" alt="midejoe" /> </p>
