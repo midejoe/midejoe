@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midejoe" alt="midejoe" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps tools**
-
 - 📝 I regularly write articles on [https://medium.com/@midejoseph24](https://medium.com/@midejoseph24)
 
 - 💬 Ask me about **Python, .NET, JavaScript, Golang, Terraform, Pulumi, Docker, Kubernetes, Prometheus**
